@@ -36,14 +36,17 @@ For testing
 *Trello  
  <img src="https://image.ibb.co/jbAm8F/Screen_Shot_2017_06_07_at_23_04_42.png" alt="Screen Shot 2017 06 07 at 23 04 42" border="0" />  
 
+
 *Original Image for the dashboard  
  <img src="https://image.ibb.co/nfyL2a/original_image.jpg" alt="original image" border="0" />  
  <img src="https://image.ibb.co/b6THFv/moqup_layout.png" alt="moqup layout" border="0" />  
  <img src="https://image.ibb.co/e6LHha/react_questionnaire.jpg" alt="react questionnaire" border="0" />  
 
+
 *The database structure  
  <img src="https://image.ibb.co/eVFToF/database_structure.jpg" alt="database structure" border="0" />  
- <img src="https://image.ibb.co/iXh2Fv/database_structure2.jpg" alt="database structure2" border="0" />   
+ <img src="https://image.ibb.co/iXh2Fv/database_structure2.jpg" alt="database structure2" border="0" />  
+
 
 *ERD  
  <img src="https://image.ibb.co/mBe4TF/erd_pic.jpg" alt="erd pic" border="0" />  
@@ -55,5 +58,4 @@ For testing
  *Implement google analytics API.  
  *Implement google calendar API.  
 
-
-    
+  
