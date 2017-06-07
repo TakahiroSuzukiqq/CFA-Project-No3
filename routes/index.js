@@ -2,11 +2,22 @@ var express = require('express');
 var router = express.Router();
 
 
-
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Dashboard for ICN' });
 });
+
+
+//twitter
+router.post('/get_users', function(req, res){
+  var screen_name = req.body.handle;
+  // console.log(screen_name);  //test in the Terminal
+  var screen_name = req.body.handle;
+
+  var users = userList(res, screen_name);
+  // res.render('list');
+});
+
 
 //dashboard index page
 // const Answer = require('../models/Answer');
